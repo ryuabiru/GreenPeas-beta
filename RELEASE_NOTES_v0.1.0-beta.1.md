@@ -28,7 +28,9 @@ Current macOS artifact:
 - `GreenPeas_0.1.0_aarch64.dmg` for Apple Silicon Macs
 - SHA-256: `84e0f1327535e405f7cd8aa3e9d1285b1232c89584c8919b2a955f031510f07c`
 
-The current beta app is intentionally distributed without code signing or notarization. Confirm that the download came from the official GreenPeas binary-release repository and verify the SHA-256 checksum before opening it.
+Because this is a pre-release beta, macOS may show a message saying that the developer cannot be verified. Confirm that the download came from this official GreenPeas beta release page before opening it.
+
+If you want to verify the download, use the SHA-256 checksum above.
 
 ## Feedback
 
