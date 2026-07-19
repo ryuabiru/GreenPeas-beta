@@ -1,0 +1,97 @@
+GreenPeas Proprietary Software License Agreement
+Version 1.0 - June 11, 2026
+
+Copyright (c) 2026 GreenPeas Team. All rights reserved.
+
+This Proprietary Software License Agreement ("Agreement") governs use of the
+GreenPeas application and its proprietary documentation and materials
+(collectively, "GreenPeas"). The copyright holder of GreenPeas is the
+"Licensor." By downloading, installing, or using GreenPeas, you agree to this
+Agreement.
+
+1. License Grant
+
+Subject to this Agreement, the Licensor grants you a limited, non-exclusive,
+non-transferable, non-sublicensable, and revocable license to install and use
+an official, unmodified binary copy of GreenPeas on devices you control, solely
+for your own personal or internal organizational use and evaluation.
+
+2. Restrictions
+
+Except where applicable law expressly prohibits a restriction, you must not:
+
+a. copy or reproduce GreenPeas, except for transient or incidental copies
+   technically necessary to install and run an authorized copy;
+
+b. modify, adapt, translate, patch, or create derivative works of GreenPeas;
+
+c. reverse engineer, decompile, disassemble, or otherwise attempt to derive
+   GreenPeas source code;
+
+d. distribute, publish, sublicense, sell, resell, rent, lease, lend, transfer,
+   host, provide as a service, or otherwise make GreenPeas available to any
+   third party;
+
+e. remove, obscure, or alter proprietary, copyright, license, or attribution
+   notices; or
+
+f. use GreenPeas in violation of applicable law.
+
+No rights are granted by implication. Written permission from the Licensor is
+required for any use outside the license grant above.
+
+3. Third-Party Components
+
+GreenPeas includes third-party components governed by their own licenses.
+Those components are not relicensed under this Agreement, and this Agreement
+does not restrict rights granted under their respective licenses. Required
+notices, license terms, and source-code locations are provided in
+THIRD_PARTY_LICENSES.txt.
+
+4. Ownership
+
+GreenPeas is licensed, not sold. The Licensor retains all right, title, and
+interest in and to GreenPeas, including all intellectual property rights in its
+proprietary portions.
+
+5. Beta Software
+
+Pre-release or beta versions may contain defects, may change without notice,
+and may be discontinued at any time. You are responsible for maintaining
+independent backups of important data.
+
+6. Termination
+
+This Agreement terminates automatically if you breach it. Upon termination,
+you must stop using GreenPeas and delete all copies in your possession or
+control, except copies of third-party components that you are independently
+entitled to retain under their respective licenses.
+
+7. Disclaimer of Warranty
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, GREENPEAS IS PROVIDED "AS IS" AND
+WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+NON-INFRINGEMENT.
+
+8. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR WILL NOT BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR LOSS
+OF DATA, PROFITS, OR BUSINESS, ARISING FROM OR RELATED TO GREENPEAS, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9. Governing Law and Jurisdiction
+
+This Agreement is governed by the laws of Japan, without regard to conflict of
+law principles. The Tokyo District Court has exclusive jurisdiction as the
+court of first instance for disputes arising from or related to this Agreement.
+
+10. Severability and Entire Agreement
+
+If any provision is unenforceable, it will be modified only to the minimum
+extent necessary, and the remaining provisions will remain effective. This
+Agreement is the entire agreement concerning GreenPeas unless the Licensor and
+you enter into a separate written agreement.
+
+Contact: heterodontus.japonicus@gmail.com
