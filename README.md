@@ -1,5 +1,7 @@
 # GreenPeas Public Beta
 
+[日本語 README](README_ja.md)
+
 This repository distributes binary-only public beta builds of GreenPeas.
 
 GreenPeas is a desktop DNA sequence editor and cloning workspace. The source
@@ -10,7 +12,7 @@ code is not distributed in this repository.
 - Version: `v0.1.0-beta.1`
 - Platform: macOS Apple Silicon
 - Download: `GreenPeas_0.1.0_aarch64.dmg`
-- SHA-256: `546a732ab73e4cc1b93f07e7a5ebc008b90a9d4cb0598c3154166e28bfd60f1b`
+- SHA-256: `84e0f1327535e405f7cd8aa3e9d1285b1232c89584c8919b2a955f031510f07c`
 
 ![GreenPeas main window](screenshots/main-window.png)
 
@@ -33,4 +35,4 @@ this beta. Verify the SHA-256 checksum before opening the DMG.
 
 ## Feedback
 
-Email beta feedback to `heterodontus.japonicus@gmail.com`.
+Email beta feedback to `ryuki.abriu@gmail.com`.

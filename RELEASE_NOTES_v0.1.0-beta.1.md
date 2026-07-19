@@ -26,13 +26,13 @@ GreenPeas proprietary code may not be copied, modified, redistributed, or resold
 Current macOS artifact:
 
 - `GreenPeas_0.1.0_aarch64.dmg` for Apple Silicon Macs
-- SHA-256: `546a732ab73e4cc1b93f07e7a5ebc008b90a9d4cb0598c3154166e28bfd60f1b`
+- SHA-256: `84e0f1327535e405f7cd8aa3e9d1285b1232c89584c8919b2a955f031510f07c`
 
 The current beta app is intentionally distributed without code signing or notarization. Confirm that the download came from the official GreenPeas binary-release repository and verify the SHA-256 checksum before opening it.
 
 ## Feedback
 
-- Email: heterodontus.japonicus@gmail.com
+- Email: ryuki.abriu@gmail.com
 
 Please include the GreenPeas version, platform, file type, reproduction steps, expected behavior, and actual behavior.
 
