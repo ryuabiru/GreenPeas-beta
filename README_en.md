@@ -20,6 +20,14 @@ code is not distributed in this repository.
 This beta is intended for testing and feedback. Do not use it as the only copy
 of important lab data.
 
+## Privacy
+
+Sequence files and workspace data opened in GreenPeas are processed locally
+during normal use and are not automatically sent to the developers.
+
+If you choose to include files or data in feedback or bug reports, the submitted
+content may be reviewed for debugging purposes.
+
 ## Installation Note
 
 Because this is a pre-release beta, macOS may show a message saying that the
